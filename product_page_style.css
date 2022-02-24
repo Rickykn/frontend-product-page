@@ -72,6 +72,9 @@
 }
 .margin-description {
   margin-top: 60px;
+  width: 350px;
+  height: 100px;
+  display: inline-block;
 }
 
 .cart {
